@@ -11,6 +11,8 @@
 ## Description
 This is a book search engine that allows users to search for books and save them to their profile. The application uses the Google Books API to search for books and uses GraphQL to query and mutate data. This application was initially built with a RESTful API and was refactored to be a GraphQL API built with Apollo Server.
 
+You can visit the site at [search-books.herokuapp.com](https://search-books.herokuapp.com/).
+
 ## Usage
 To use this application, go to the deployed application on Heroku and create an account. Once you have created an account, you can search for books and save them to your profile.
 
